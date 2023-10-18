@@ -21,4 +21,12 @@ The serious concerns over the negative impacts of Deepfakes have attracted wide 
 3. python train.py
 
 ## Citation
-Update later
+@ARTICLE{guo2024Constructing,
+  author={Guo, Zhiqing and Jia, Zhenhong and Wang, Liejun and Wang, Dewang and Yang, Gaobo and Kasabov, Nikola},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TIFS.2023.3324739}}
