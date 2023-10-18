@@ -18,9 +18,12 @@ The serious concerns over the negative impacts of Deepfakes have attracted wide 
 ## Usage of SFIConv-ResNet
 1. Configure the environment according to requirements.txt.
 2. Change the data path in train.py file
-3. python train.py
+3. Run code for model training：
+```python train.py```
 
 ## Citation
+Please cite our paper if the code is used in your research:
+```
 @ARTICLE{guo2024Constructing,
   author={Guo, Zhiqing and Jia, Zhenhong and Wang, Liejun and Wang, Dewang and Yang, Gaobo and Kasabov, Nikola},
   journal={IEEE Transactions on Information Forensics and Security}, 
@@ -30,3 +33,4 @@ The serious concerns over the negative impacts of Deepfakes have attracted wide 
   number={},
   pages={1-13},
   doi={10.1109/TIFS.2023.3324739}}
+```
