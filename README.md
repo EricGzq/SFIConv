@@ -29,8 +29,8 @@ Please cite our paper if the code is used in your research:
   journal={IEEE Transactions on Information Forensics and Security}, 
   title={Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection}, 
   year={2024},
-  volume={},
+  volume={19},
   number={},
-  pages={1-13},
+  pages={401-413},
   doi={10.1109/TIFS.2023.3324739}}
 ```
